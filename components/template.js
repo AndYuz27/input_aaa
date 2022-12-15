@@ -103,7 +103,7 @@ export default {
                 }
                 .dd3{
                     border: 1px solid lightgrey;
-S
+
                 }
                 .dd3:focus ~ .ddg {
                     position: realative;
